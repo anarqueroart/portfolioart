@@ -1,6 +1,6 @@
 <template>
     <div class="titlebar flex-row items-center justify-between flex w-full h-fit gap-2">
-        <div class="flex flex-row">  
+        <div class="flex flex-row gap-2">  
           <img class="size-14 rounded-full pfp-shadow" src="/pfp.jpg">
           <img class="w-48" src="/asset_logo.svg">
         </div>
